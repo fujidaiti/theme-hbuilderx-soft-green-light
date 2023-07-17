@@ -17,7 +17,7 @@
 		"dropdown.background": "#fffae8",
 		"dropdown.border": "#d8ca9e",
 		"editor.background": "#fffae8",
-		"editor.foreground": "#3e4b53",
+		"editor.foreground": "#a29876",
 		"editor.lineHighlightBackground": "#e8dfc4",
 		"editor.selectionBackground": "#bcd68d",
 		"editorGroup.border": "#d8ca9e",
@@ -1016,19 +1016,19 @@
 		{
 			"scope": "entity.name.type.namespace",
 			"settings": {
-				"foreground": "#E5C07B"
+				"foreground": "#9836a3"
 			}
 		},
 		{
 			"scope": "support.class, entity.name.type.class",
 			"settings": {
-				"foreground": "#E5C07B"
+				"foreground": "#3e4b53e3"
 			}
 		},
 		{
 			"scope": "entity.name.class.identifier.namespace.type",
 			"settings": {
-				"foreground": "#E5C07B"
+				"foreground": "#3e4b53e3"
 			}
 		},
 		{
@@ -1040,7 +1040,7 @@
 		{
 			"scope": "entity.name.type",
 			"settings": {
-				"foreground": "#E5C07B"
+				"foreground": "#3e4b53e3"
 			}
 		},
 		{
